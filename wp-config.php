@@ -80,8 +80,8 @@ $table_prefix = 'wp_';
 define( 'WP_DEBUG', false );
 
 /* That's all, stop editing! Happy publishing. */
-define ( 'WP_HOME' , 'https://www.akamine.daaula.com.br' );
-define ( 'WP_SITEURL', 'https://www.akamine.daaula.com.br' );
+define ( 'WP_HOME' , 'https://akamine.daaula.com.br' );
+define ( 'WP_SITEURL', 'https://akamine.daaula.com.br' );
 /** Absolute path to the WordPress directory. */
 if ( ! defined( 'ABSPATH' ) ) {
 	define( 'ABSPATH', __DIR__ . '/' );
